@@ -17,7 +17,7 @@ Este espaço é dedicado à documentação e partilha dos meus projetos de **Pla
 
 ## 📂 Organização do Repositório
 
-Podes navegar pelos ficheiros e documentação deste projeto através das seguintes pastas:
+Os ficheiros e documentação deste projeto encontram-se distribuídos pelas seguintes pastas:
 
 * 📁 **[`/Hardware`](./Hardware)** — Ficheiros de projeto e esquemático elétrico do KiCad (`.kicad_pcb`, `.kicad_sch`).
 * 📁 **[`/gerbers`](./gerbers)** — Pacote compactado (`.zip`) com os ficheiros de fabrico Gerber e Drill prontos para produção.
